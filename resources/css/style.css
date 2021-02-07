@@ -1,0 +1,28 @@
+body {
+    background-color: black;
+    text-align: center;
+    font-family: Verdana;
+}
+h1 {
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+}
+h2 {
+    color: white;
+    font-weight: 300;
+    font-size: 42px;
+}
+h4 {
+    color: gray;
+    font-size: 21px;
+    font-weight: normal;
+}
+a {
+    color: aquamarine;
+    font-size: 16px;
+    font-weight: normal;
+}
+#copywrite {
+    text-align: right;
+}
